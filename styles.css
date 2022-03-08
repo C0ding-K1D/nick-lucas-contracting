@@ -197,13 +197,13 @@ p{
     margin-top:20px;
 }
 .services {
-    background-image: url(/sharpbackground.png);
+    background-image: url(./sharpbackground.png);
     background-repeat: no-repeat;
     background-position-x: center;
     max-width:100%;
 }
 .custom {
-    background-image: url(/thirdbackgroundtest.png);
+    background-image: url(./thirdbackgroundtest.png);
     background-repeat: no-repeat;
     background-position-x: center;
     max-width:100%;
@@ -364,7 +364,7 @@ div h1 {
 }
 /*PROJECTS*/
 .custom2 {
-    background-image: url(/secondbackground-test\ copy.png);
+    background-image: url(./secondbackground-test\ copy.png);
     background-repeat: no-repeat;
     background-position-x: center;
     max-width:100%;
@@ -385,92 +385,92 @@ div h1 {
 }
 
 .carousel-image-1 {
-    background-image: url(/babylonkitchen1.png);
+    background-image: url(./babylonkitchen1.png);
     background-size:cover;
     opacity:.92;
     box-shadow: 0px 15px 25px 10px rgb(0, 0, 0,.4);
 }
 
 .carousel-image-2 {
-    background-image: url(/babylonkitchen2.png);
+    background-image: url(./babylonkitchen2.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-3 {
-    background-image: url(/babylonkitchen3.png);
+    background-image: url(./babylonkitchen3.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-4 {
-    background-image: url(/babylonkitchen4.png);
+    background-image: url(./babylonkitchen4.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-5 {
-    background-image: url(/westbabylonbroom5.png);
+    background-image: url(./westbabylonbroom5.png);
     background-size:cover;
     opacity:.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-6 {
-    background-image: url(/westbroom6.png);
+    background-image: url(./westbroom6.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-7 {
-    background-image: url(/wbroom7.png);
+    background-image: url(./wbroom7.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-9 {
-    background-image: url(/wislip8.png);
+    background-image: url(./wislip8.png);
     background-size:cover;
     opacity:.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-10 {
-    background-image: url(/wislip9.png);
+    background-image: url(./wislip9.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-11 {
-    background-image: url(/wislip10.png);
+    background-image: url(./wislip10.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-12 {
-    background-image: url(/wislip11.png);
+    background-image: url(./wislip11.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-13 {
-    background-image: url(/wislip12.png);
+    background-image: url(./wislip12.png);
     background-size:cover;
     opacity:.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-14 {
-    background-image: url(/wislip13.png);
+    background-image: url(./wislip13.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-15 {
-    background-image: url(/wislip14.png);
+    background-image: url(./wislip14.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
 }
 .carousel-image-16 {
-    background-image: url(/wislip15.png);
+    background-image: url(./wislip15.png);
     background-size: cover;
     opacity: 0.92;
     box-shadow: 0px 0px 30px 10px rgb(0, 0, 0,.5);
@@ -519,7 +519,7 @@ h1.display-5 {
 }
 /*CONTACT*/
 .contact {
-    background-image: url(/contactuscopy.png);
+    background-image: url(./contactuscopy.png);
     background-repeat: no-repeat;
     background-position-x: center;
     max-width:100%;
