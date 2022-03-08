@@ -7,17 +7,17 @@
         bottom:200px;
     }
     .custom{
-        background-image: url(/thirdbackground-testsmall\ copy.png);
+        background-image: url(./thirdbackground-testsmall\ copy.png);
         background-position-x: center;      
         min-width: 578px;
     }
     .custom2{
-        background-image: url(/secondbackground-testsmall\ copy.png);
+        background-image: url(./secondbackground-testsmall\ copy.png);
         background-position-x: center;
         min-width: 578px;    
     }
     .contact{
-        background-image: url(/contactuscopysmall.png);
+        background-image: url(./contactuscopysmall.png);
         background-position-x: center;
         min-width: 578px;
     }
@@ -232,18 +232,18 @@
         bottom:200px;
     }
     .custom{
-        background-image: url(/thirdbackground-testmed\ copy.png);
+        background-image: url(./thirdbackground-testmed\ copy.png);
         background-position-x: center;
         min-width: 768px; 
         height:600px;     
     }
     .custom2{
-        background-image: url(/secondbackground-testmed\ copy.png);
+        background-image: url(./secondbackground-testmed\ copy.png);
         background-position-x: center;
         min-width: 768px;      
     }
     .contact{
-        background-image: url(/contactuscopymed.png);
+        background-image: url(./contactuscopymed.png);
         background-position-x: center;
         min-width: 768px;     
         height:600px;
@@ -466,18 +466,18 @@
         bottom:200px;
     }
     .custom{
-        background-image: url(/thirdbackground-testlarge.png);
+        background-image: url(./thirdbackground-testlarge.png);
         background-position-x: center; 
         height:800px;  
         min-width:996px;    
     }
     .custom2{
-        background-image: url(/secondbackground-testlarge.png);
+        background-image: url(./secondbackground-testlarge.png);
         background-position-x: center;   
         min-width:996px;  
     }
     .contact{
-        background-image: url(/contact\ uslarge.png);
+        background-image: url(./contact\ uslarge.png);
         background-position-x: center;
         min-width:996px;      
     }
